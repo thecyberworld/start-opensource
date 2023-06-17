@@ -2,7 +2,7 @@
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a Fork of the [**git-github-practice**](https://github.com/cryptoverseWeb3/git-github-practice) repository. Click on the <a href="https://github.com/cryptoverseWeb3/git-github-practice/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
+**1.** Start by making a Fork of the [**git-github-practice**](https://github.com/thecyberworld/git-github-practice) repository. Click on the <a href="https://github.com/thecyberworld/git-github-practice/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
 
 **2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 ```bash
@@ -17,7 +17,7 @@ cd git-github-practice
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/CryptoverseWeb3/git-github-practice.git
+git remote add upstream https://github.com/thecyberworld/git-github-practice.git
 ```
 
 **5.** Create a new branch:
@@ -69,7 +69,7 @@ git push origin YourBranchName
 
 **10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**11.** **Congratulations!** You've made your first contribution to [**git-github-practice**](https://github.com/cryptoverseWeb3/git-github-practice/graphs/contributors)! 🙌🏼
+**11.** **Congratulations!** You've made your first contribution to [**git-github-practice**](https://github.com/thecyberworld/git-github-practice/graphs/contributors)! 🙌🏼
 
 **_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the git-github-practice project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
@@ -77,7 +77,6 @@ git push origin YourBranchName
 
 - We help and encourage each other to contribute to open source little and often 😄.
 - Feel free to check out other cool open-source repositories and communities:
-    - [Cryptoverse Web3](https://github.com/CryptoverseWeb3)
     - [Thecyberworld](https://github.com/thecyberworld)
     - [kabir0x23](https://github.com/kabir0x23)
     
