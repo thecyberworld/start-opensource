@@ -2,22 +2,22 @@
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a Fork of the [**git-github-practice**](https://github.com/thecyberworld/git-github-practice) repository. Click on the <a href="https://github.com/thecyberworld/git-github-practice/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
+**1.** Start by making a Fork of the [**start-opensource**](https://github.com/thecyberworld/start-opensource) repository. Click on the <a href="https://github.com/thecyberworld/start-opensource/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
 
 **2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 ```bash
-git clone https://github.com/<your-github-username>/git-github-practice
+git clone https://github.com/<your-github-username>/start-opensource
 ```
 
-**3.** Navigate to the newly created git-github-practice project directory:
+**3.** Navigate to the newly created start-opensource project directory:
 ```bash
-cd git-github-practice
+cd start-opensource
 ```
 
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/thecyberworld/git-github-practice.git
+git remote add upstream https://github.com/thecyberworld/start-opensource.git
 ```
 
 **5.** Create a new branch:
@@ -69,9 +69,9 @@ git push origin YourBranchName
 
 **10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**11.** **Congratulations!** You've made your first contribution to [**git-github-practice**](https://github.com/thecyberworld/git-github-practice/graphs/contributors)! 🙌🏼
+**11.** **Congratulations!** You've made your first contribution to [**start-opensource**](https://github.com/thecyberworld/start-opensource/graphs/contributors)! 🙌🏼
 
-**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the git-github-practice project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
+**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the start-opensource project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
 ---
 
