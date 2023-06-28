@@ -1,4 +1,4 @@
-# git-github-practice
+# start-opensource
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
