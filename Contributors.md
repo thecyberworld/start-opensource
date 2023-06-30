@@ -13,5 +13,5 @@
 - [ifeanyi chima](https://github.com/masterifeanyi)
 - [Muhammad Shahid](https://github.com/Muhammad-Shahid-Jamal)
 - [Yash Singh Chauhan](https://github.com/0xFTW)
-
+- [Govind Goyal](https://github.com/Type25-op)
 [//]: # (End of the file)
