@@ -1,9 +1,10 @@
 ---
 runme:
   id: 01HKN2KSD6F6YTJFT3KJ610B63
-  version: v2.0
+  version: v2.2
 ---
 
+### **Contributors**
 - [Kabir](https://github.com/kabir0x23)
 - [Harshit](https://github.com/hs-07)
 - [codewithnadeem](https://github.com/codewithnadeem14502)
