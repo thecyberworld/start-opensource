@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HKN2KSD6F6YTJFT3KJ610B63
-  version: v2.2
----
-
 ### **Contributors**
 
 - [Kabir](https://github.com/kabir0x23)
@@ -21,6 +15,6 @@ runme:
 - [Yash Singh Chauhan](https://github.com/0xFTW)
 - [Sanjay Singha](https://github.com/makesanjoy)
 
-```sh {"id":"01HKPDY8RGHRSZ5NX8XK9DQFB2"}
+  
 [//]: # (End of the file)
-```
+
